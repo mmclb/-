@@ -38,16 +38,6 @@ table tr:active{background:#eee;}
 table td{font-size:14px;padding:8px;line-height:24px;}
 </style>
 </head>
-<?php
-
-
-
-
-
-
-
-echo '
-
 
 <html>
 <head>
@@ -94,5 +84,3 @@ echo '
 </body>
 </html>
 <br/>
-</body>
-</html>
