@@ -75,10 +75,4 @@ table td{font-size:14px;padding:8px;line-height:24px;}
 <div class="show" id="qx">---1.对于系统要求降级为4.0.3版本！<br><br>---2.修改状态栏颜色沉侵式更加美观！<br><br>---3.软件界面全新改版，给您最好的使用体验！<br><br>---4.增加最新版iApp5.0手册内容！<br><br>---5.删除没用的功能！<br><br>---6.后台采用伍百人，可能出现不稳定现象！<br><br>---7.功能界面正在完善体验，敬请期待！</div>
 
 
-</body>
-</html>
-
-<body>
-</body>
-</html>
 <br/>
